@@ -8,3 +8,34 @@ If you want to create the files yourself, you can run the following command whil
 ```
 python3 main.py mainnet http://localhost:3413 1524200 50
 ```
+
+### Mainnet Blocks
+* [Mainnet blocks 0-99999](https://github.com/NicolasFlamel1/MimbleWimble-Coin-Block-Archive/releases/download/Mainnet_Blocks_0-99999/mainnet_blocks_0-99999.zip)
+* [Mainnet blocks 100000-199999](https://github.com/NicolasFlamel1/MimbleWimble-Coin-Block-Archive/releases/download/Mainnet_Blocks_100000-199999/mainnet_blocks_100000-199999.zip)
+* [Mainnet blocks 200000-299999](https://github.com/NicolasFlamel1/MimbleWimble-Coin-Block-Archive/releases/download/Mainnet_Blocks_200000-299999/mainnet_blocks_200000-299999.zip)
+* [Mainnet blocks 300000-399999](https://github.com/NicolasFlamel1/MimbleWimble-Coin-Block-Archive/releases/download/Mainnet_Blocks_300000-399999/mainnet_blocks_300000-399999.zip)
+* [Mainnet blocks 400000-499999](https://github.com/NicolasFlamel1/MimbleWimble-Coin-Block-Archive/releases/download/Mainnet_Blocks_400000-499999/mainnet_blocks_400000-499999.zip)
+* [Mainnet blocks 500000-599999](https://github.com/NicolasFlamel1/MimbleWimble-Coin-Block-Archive/releases/download/Mainnet_Blocks_500000-599999/mainnet_blocks_500000-599999.zip)
+* [Mainnet blocks 600000-699999](https://github.com/NicolasFlamel1/MimbleWimble-Coin-Block-Archive/releases/download/Mainnet_Blocks_600000-699999/mainnet_blocks_600000-699999.zip)
+* [Mainnet blocks 700000-799999](https://github.com/NicolasFlamel1/MimbleWimble-Coin-Block-Archive/releases/download/Mainnet_Blocks_700000-799999/mainnet_blocks_700000-799999.zip)
+* [Mainnet blocks 800000-899999](https://github.com/NicolasFlamel1/MimbleWimble-Coin-Block-Archive/releases/download/Mainnet_Blocks_800000-899999/mainnet_blocks_800000-899999.zip)
+* [Mainnet blocks 900000-999999](https://github.com/NicolasFlamel1/MimbleWimble-Coin-Block-Archive/releases/download/Mainnet_Blocks_900000-999999/mainnet_blocks_900000-999999.zip)
+* [Mainnet blocks 1000000-1099999](https://github.com/NicolasFlamel1/MimbleWimble-Coin-Block-Archive/releases/download/Mainnet_Blocks_1000000-1099999/mainnet_blocks_1000000-1099999.zip)
+* [Mainnet blocks 1100000-1199999](https://github.com/NicolasFlamel1/MimbleWimble-Coin-Block-Archive/releases/download/Mainnet_Blocks_1100000-1199999/mainnet_blocks_1100000-1199999.zip)
+* [Mainnet blocks 1200000-1299999](https://github.com/NicolasFlamel1/MimbleWimble-Coin-Block-Archive/releases/download/Mainnet_Blocks_1200000-1299999/mainnet_blocks_1200000-1299999.zip)
+* [Mainnet blocks 1300000-1399999](https://github.com/NicolasFlamel1/MimbleWimble-Coin-Block-Archive/releases/download/Mainnet_Blocks_1300000-1399999/mainnet_blocks_1300000-1399999.zip)
+* [Mainnet blocks 1400000-1499999](https://github.com/NicolasFlamel1/MimbleWimble-Coin-Block-Archive/releases/download/Mainnet_Blocks_1400000-1499999/mainnet_blocks_1400000-1499999.zip)
+
+### Floonet Blocks
+* [Floonet blocks 0-99999](https://github.com/NicolasFlamel1/MimbleWimble-Coin-Block-Archive/releases/download/Floonet_Blocks_0-99999/floonet_blocks_0-99999.zip)
+* [Floonet blocks 100000-199999](https://github.com/NicolasFlamel1/MimbleWimble-Coin-Block-Archive/releases/download/Floonet_Blocks_100000-199999/floonet_blocks_100000-199999.zip)
+* [Floonet blocks 200000-299999](https://github.com/NicolasFlamel1/MimbleWimble-Coin-Block-Archive/releases/download/Floonet_Blocks_200000-299999/floonet_blocks_200000-299999.zip)
+* [Floonet blocks 300000-399999](https://github.com/NicolasFlamel1/MimbleWimble-Coin-Block-Archive/releases/download/Floonet_Blocks_300000-399999/floonet_blocks_300000-399999.zip)
+* [Floonet blocks 400000-499999](https://github.com/NicolasFlamel1/MimbleWimble-Coin-Block-Archive/releases/download/Floonet_Blocks_400000-499999/floonet_blocks_400000-499999.zip)
+* [Floonet blocks 500000-599999](https://github.com/NicolasFlamel1/MimbleWimble-Coin-Block-Archive/releases/download/Floonet_Blocks_500000-599999/floonet_blocks_500000-599999.zip)
+* [Floonet blocks 600000-699999](https://github.com/NicolasFlamel1/MimbleWimble-Coin-Block-Archive/releases/download/Floonet_Blocks_600000-699999/floonet_blocks_600000-699999.zip)
+* [Floonet blocks 700000-799999](https://github.com/NicolasFlamel1/MimbleWimble-Coin-Block-Archive/releases/download/Floonet_Blocks_700000-799999/floonet_blocks_700000-799999.zip)
+* [Floonet blocks 800000-899999](https://github.com/NicolasFlamel1/MimbleWimble-Coin-Block-Archive/releases/download/Floonet_Blocks_800000-899999/floonet_blocks_800000-899999.zip)
+* [Floonet blocks 900000-999999](https://github.com/NicolasFlamel1/MimbleWimble-Coin-Block-Archive/releases/download/Floonet_Blocks_900000-999999/floonet_blocks_900000-999999.zip)
+* [Floonet blocks 1000000-1099999](https://github.com/NicolasFlamel1/MimbleWimble-Coin-Block-Archive/releases/download/Floonet_Blocks_1000000-1099999/floonet_blocks_1000000-1099999.zip)
+* [Floonet blocks 1100000-1199999](https://github.com/NicolasFlamel1/MimbleWimble-Coin-Block-Archive/releases/download/Floonet_Blocks_1100000-1199999/floonet_blocks_1100000-1199999.zip)
