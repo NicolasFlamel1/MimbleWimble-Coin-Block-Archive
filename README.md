@@ -31,6 +31,7 @@ python3 main.py mainnet http://localhost:3413 1524200 50
 * [Mainnet blocks 1800000-1899999](https://github.com/NicolasFlamel1/MimbleWimble-Coin-Block-Archive/releases/download/Mainnet_Blocks_1800000-1899999/mainnet_blocks_1800000-1899999.zip)
 * [Mainnet blocks 1900000-1999999](https://github.com/NicolasFlamel1/MimbleWimble-Coin-Block-Archive/releases/download/Mainnet_Blocks_1900000-1999999/mainnet_blocks_1900000-1999999.zip)
 * [Mainnet blocks 2000000-2099999](https://github.com/NicolasFlamel1/MimbleWimble-Coin-Block-Archive/releases/download/Mainnet_Blocks_2000000-2099999/mainnet_blocks_2000000-2099999.zip)
+* [Mainnet blocks 2100000-2199999](https://github.com/NicolasFlamel1/MimbleWimble-Coin-Block-Archive/releases/download/Mainnet_Blocks_2100000-2199999/mainnet_blocks_2100000-2199999.zip)
 
 ### Floonet Blocks
 * [Floonet blocks 0-99999](https://github.com/NicolasFlamel1/MimbleWimble-Coin-Block-Archive/releases/download/Floonet_Blocks_0-99999/floonet_blocks_0-99999.zip)
